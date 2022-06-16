@@ -1,5 +1,13 @@
 # Detection-of-liver-cancer-using-image-processing-in-python
 
+#ABSTRACT
+Image processing is a processing technique with the help of mathematical operations. It uses any of the form of signal processing. Here the input is an image or video and the output is also an image or a set of image.
+
+This technique is also used in medical applications for various detection and treatment. In this , it has been used to detect cancer cell of the liver.
+
+Here ostu’s method is used for enhancing the MRI image and watershed    method is used to segment the cancer cell from the image.
+
+
 import numpy as np
 #import tensorflow as tf
 import keras.preprocessing.image
